@@ -16,7 +16,7 @@ setup(
     name="sanskritayam",
     version=VERSION,
     author="thtskaran",
-    author_email="<hello@karanprasad.com>",
+    author_email="<shreyasms49@gmail.com>",
     description=DESCRIPTION,
     long_description_content_type="text/markdown",
     long_description=long_description,
